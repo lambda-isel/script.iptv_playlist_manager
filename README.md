@@ -8,7 +8,7 @@ IPTV Playlist Manager creates a single playlist from a plurality of local or rem
 
 ### Update PVR IPTV Simple Client
 
-Enable this setting to load the created playlist into PVR IPTV Simple Client after IPTV Playlist Manager has created a playlist. This entails updating the settings of PVR IPTV Simple Client and reloading the PVR.
+Enable this setting to load the created playlist into PVR IPTV Simple Client after IPTV Playlist Manager has created a playlist. This entails updating the settings of PVR IPTV Simple Client and restarting the PVR.
 
 ### File
 
