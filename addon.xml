@@ -10,7 +10,7 @@
   </extension>
   <extension point="xbmc.addon.metadata">
     <summary lang="en_GB">IPTV Playlist Manager</summary>
-    <description lang="en_GB">IPTV Playlist Manager manages PVR IPTV Simple Client playlists</description>
+    <description lang="en_GB">IPTV Playlist Manager creates a single playlist from a plurality of local or remote playlists and loads it into PVR IPTV Simple Client</description>
     <platform>all</platform>
     <license>GPL-2.0-or-later</license>
     <forum>https://github.com/lambda-isel/script.iptv_playlist_manager/issues</forum>
