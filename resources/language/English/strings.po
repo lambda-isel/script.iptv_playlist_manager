@@ -1,0 +1,30 @@
+# Kodi Media Center language file
+# Addon Name: IPTV Playlist Manager
+# Addon id: script.iptv_playlist_manager
+# Addon Provider: lambda-isel
+msgid ""
+msgstr ""
+
+msgctxt "#32000"
+msgid "General"
+msgstr ""
+
+msgctxt "#32001"
+msgid "Update PVR IPTV Simple Client"
+msgstr ""
+
+msgctxt "#32002"
+msgid "Files"
+msgstr ""
+
+msgctxt "#32003"
+msgid "File"
+msgstr ""
+
+msgctxt "#32004"
+msgid "Link"
+msgstr ""
+
+msgctxt "#32005"
+msgid "Path(s)"
+msgstr ""

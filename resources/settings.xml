@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<settings>
+  <category label="32000">
+    <setting label="32001" type="bool" id="update_iptv" default="true"/>
+  </category>
+  <category label="32002">
+    <setting label="32003" type="file" id="file_0" default=""/>
+    <setting label="32003" type="file" id="file_1" default=""/>
+    <setting label="32003" type="file" id="file_2" default=""/>
+    <setting label="32003" type="file" id="file_3" default=""/>
+    <setting label="32003" type="file" id="file_4" default=""/>
+    <setting label="32003" type="file" id="file_5" default=""/>
+    <setting label="32003" type="file" id="file_6" default=""/>
+    <setting label="32003" type="file" id="file_7" default=""/>
+  </category>
+  <category label="32004">
+    <setting label="32005" type="text" id="text_0" default=""/>
+    <setting label="32005" type="text" id="text_1" default=""/>
+    <setting label="32005" type="text" id="text_2" default=""/>
+    <setting label="32005" type="text" id="text_3" default=""/>
+    <setting label="32005" type="text" id="text_4" default=""/>
+    <setting label="32005" type="text" id="text_5" default=""/>
+    <setting label="32005" type="text" id="text_6" default=""/>
+    <setting label="32005" type="text" id="text_7" default=""/>
+  </category>
+</settings>
