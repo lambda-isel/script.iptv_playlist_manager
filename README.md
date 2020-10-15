@@ -16,7 +16,7 @@ Use the 8 File settings to specify files to add to the playlist. These settings 
 
 ### Path(s)
 
-Use the 8 Path(s) settings to specify paths to add to the playlist. Each Path(s) setting can contain one or more comma separated paths,
+Use the 8 Path(s) settings to specify paths to add to the playlist. Each Path(s) setting can contain one or more comma separated paths.
 
 ## Operation
 

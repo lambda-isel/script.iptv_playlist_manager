@@ -22,7 +22,7 @@ msgid "File"
 msgstr ""
 
 msgctxt "#32004"
-msgid "Link"
+msgid "Paths"
 msgstr ""
 
 msgctxt "#32005"
